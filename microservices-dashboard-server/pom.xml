@@ -10,7 +10,7 @@
 
     <groupId>be.ordina</groupId>
     <artifactId>microservices-dashboard-server</artifactId>
-    <version>1.0.1</version>
+    <version>2.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Microservices Dashboard Server</name>
@@ -53,7 +53,7 @@
         <connection>scm:git:https://github.com/ordina-jworks/microservices-dashboard-server.git</connection>
         <developerConnection>scm:git:git@github.com:ordina-jworks/microservices-dashboard-server.git</developerConnection>
         <url>https://github.com/ordina-jworks/microservices-dashboard-server.git/</url>
-        <tag>1.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <profiles>
